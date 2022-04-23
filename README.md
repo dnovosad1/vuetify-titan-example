@@ -1,5 +1,7 @@
 # vuetify-titan-example
 
+## Showcase of newly supported multiple theming options in Vuetify 3
+
 ## Project setup
 ```
 npm install
